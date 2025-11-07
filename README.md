@@ -1,6 +1,6 @@
 # About Me 👋🏼
 
-Siempre en busca de entender más allá de lo evidente. Aportando ideas y aprendiendo del resultados de esas ideas. 🧑🏻‍💻
+Siempre en busca de entender más allá de lo evidente. Aportando ideas y aprendiendo del resultado de esas ideas. 🧑🏻‍💻
 
 ## Tech Stack 💻
 
